@@ -1,0 +1,255 @@
+.darkbox, #access ul, .dirr:hover, ul.nav li:hover, ul.nav li.current,  .dirr:hover{
+	background: #1F1F1F;
+	border: 0px solid #fff;
+}
+
+#access ul ul{
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none; 
+}
+
+.imgblock, .gallerycontainer{
+	background: url(black/imgblock.png) no-repeat center;
+}
+
+.thumb, .teampostimg img, .alignright, .alignleft, .alignnone{
+	border: 1px solid #4f4f4f;
+	background: #3F3F3F;
+}
+
+
+.bookingform-date{
+	color: #fff;
+}
+
+
+.bookover{
+	background: #393939;
+}
+
+form#newslettersignup label{
+color: #fff;
+text-shadow: 1px 1px 0 #000;
+}
+
+.speccontent h4{
+	border-bottom: 1px solid #1F1D19;
+}
+
+.speccontent p{
+	border-top: 1px solid #5F5B53;
+	color: #BFBBB3;
+}
+
+.stripcontent, ul.nav li:hover a, ul.nav li.current a, .widget_netlabs_calendar_widget .timemachine,
+.widget_netlabs_calendar_widget a.timermore, .pagination a, .foodprice, form#newslettersignup input.newssubmit:hover{
+	background: #1f1f1f;
+	outline: 0;
+}
+
+.vfont, .widget_netlabs_fpnews_widget h4, .lasthead, .meminfo h1, .meminfo h2, .meminfo h3, .meminfo h4, .widget-container caption,
+.meminfo h5, .meminfo h6,.page h1, .page h2, .page h3, .page h4, .page h5, .page h6, blockquote, #reply-title, #comments-title,
+li.dir-label {
+	text-shadow: 1px 1px 0 #000;
+}
+
+.entry-skin .Dark{
+	background: url(black/binnerbg.png);
+}
+
+.jcarousel-prev-horizontal{
+	background: url(black/prevdot.png) no-repeat 49% center;
+}
+
+.jcarousel-next-horizontal{
+	background: url(black/nextdot.png) no-repeat 51% center;
+}
+
+.lightblock1{
+	background: #5F5F5F;
+}
+
+.tagcontent p.thislink:hover{
+	background: url(black/bigdoth.png);
+}
+
+.galleries_widget p, .widget_netlabs_calendaru_widget p, span.shortgaltitle, .calpic{
+	background: url(black/blackbox.png) repeat-y center left;
+}
+
+
+form#searchform input[type="submit"]{
+	background: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+	letter-spacing: -1px;
+	display: inline-block;
+	padding: 11px 11px 13px 10px;
+	border: 0px solid #fff;
+	margin-left: -3px;
+	cursor: pointer;
+}
+
+form#searchform{
+	background: #5F5F5F;
+}
+
+
+
+#respond .comment-form-comment label {
+	top: 50px;
+}
+
+.fbs p {
+  color: #fff !important;
+  padding: 20px;
+  text-shadow: 1px 1px 0 #000;
+}
+
+h1.entry-title {
+	color: #1F1D19;
+}
+
+#respond input[type="text"],
+#respond textarea, form#newslettersignup input[type="text"], form#searchform input[type="text"], .widget-container select{
+	background: #fff;
+	border: 4px solid #5F5F5F;
+	-webkit-box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	-moz-box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	padding: 10px;
+}
+
+
+.pagination span, .timeshow .timerclose:hover{
+	background: #5F5F5F;
+}
+
+.widget-container select, form#searchform input[type="text"]{
+	text-indent: 0px;
+}
+
+body{
+	background: #F7F6F1 url(black/bg-tile.png);
+	color: #fff;
+}
+
+#footer form#newslettersignup input.newssubmit, #footer .imlk p, .timeshow a.timermore, .timeshow .timerdesc, #respond input#submit:hover{
+	background: #1F1D19;
+}
+
+
+#access a{
+	color: #F1F0E8;
+}
+
+.singletweet_widget span a, .tagcontent h2, .tagcontent p, #site-generator a, .maincontentinner .widget_netlabs_fpnews_widget p a:hover,
+.maincontentinner .singletweet_widget p a:hover, .singletweet_widget span a:hover, .widget-container a:hover{
+	color: #1F1D19;
+	text-decoration: none;
+}
+
+#site-generator a{
+	color: #fff;
+}
+
+.skinholder{
+	background: url(black/winnerbg.png);
+}
+
+.jqmWindow {
+	border: 3px solid #ACACAC;
+}
+
+
+.maincontentinner .widget_netlabs_imglink_widget p a, .maincontentinner .widget_netlabs_video_widget p, .widget_netlabs_calendaru_widget p a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.feedbimg{
+	background: url(black/feedb.png) no-repeat 80px 0;
+	margin-top: -20px;
+	padding-top: 10px;
+}
+
+.maincontentinner .widget_netlabs_feedb_widget p, .singletweet_widget p, .singleholder, .specinner, .widget-container thead,
+.jcarousel-clip-horizontal, .infoside, .timerclose:hover, .foodmenu, #respond, .commentlist > li.comment, .post .entry-meta, .bheader, .bempty,
+p.bookingp, .gallerycontainerwrap, .carouselsinner, .menuintro p{
+	background: #393939;
+}
+
+.bdavailable, .btavailable, .bmavailable, .bundavailable{
+	background: #4f4f4f;
+	text-align: center;
+	text-shadow: 1px 1px 0 #000;
+}
+
+.bundavailable{
+color: #fff;
+background: url(black/xcross.png) no-repeat center;
+}
+
+.bdavailable, .btavailable, .bmavailable {
+	border: 1px solid #dfdfdf;
+}
+
+p.bookingp label{
+	text-shadow: 1px 1px 0 #000;
+}
+
+p.bookingp input[type="text"], .bookingp select, p.bookingp textarea{
+	background: #5f5f5f !important;
+	color: #fff;
+}
+
+p.bookingp textarea, .socialcontent{
+	background: #5f5f5f;
+	border: 0px solid #000;
+}
+
+.bdaychooser, .btimechooser, .bminchooser{
+	background: #7F7F7F;
+	padding: 1px;
+}
+
+.today{
+	background: #afafaf;
+}
+
+.timeshow .timerclose, a.comment-reply-link, .commentlist .children > li.bypostauthor{
+	background: #5f5f5f;
+}
+
+.infoside {
+	background: #DFDFDF;
+}
+
+.timeshow .timemachine{
+background: url(black/smalltimemachine.png) no-repeat center;	
+}
+
+.lasthead, .mainwelcome, .monthselect span, blockquote, #comments-title em, .widget-container p, .vmeta{
+	color: #ACACAC;
+}
+
+
+#footer form#newslettersignup input, a.ddir:hover{
+background: #6F6D61;
+}
+
+#side-container ul li input[type="text"], .adp-listsel {
+	background: #848587;
+	color: #000;
+}
+
+.adp-directions{
+	color: #CFCFCF;
+}
+
+.adp-directions b{
+	color: #fff;	
+}

@@ -1,0 +1,202 @@
+.darkbox, #access ul, .dirr:hover, ul.nav li:hover, ul.nav li.current,  .dirr:hover{
+	background: #37332C;
+	border: 0px solid #fff;
+}
+
+.vfont, .widget_netlabs_fpnews_widget h4, .lasthead, .meminfo h1, .meminfo h2, .meminfo h3, .meminfo h4, .widget-container caption,
+.meminfo h5, .meminfo h6,.page h1, .page h2, .page h3, .page h4, .page h5, .page h6, blockquote, #reply-title, #comments-title,
+li.dir-label {
+	text-shadow: 1px 1px 0 #fff;
+}
+
+#access ul ul{
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none; 
+}
+
+.imgblock, .gallerycontainer{
+	background: url(brown/imgblock.png) no-repeat center;
+}
+
+.thumb, .teampostimg img, .alignright, .alignleft, .alignnone{
+	background: #FCFCF9;
+	border: 1px solid #D8D7CF;
+}
+
+
+form#newslettersignup label{
+color: #37332C;
+text-shadow: 1px 1px 0 #fff;
+}
+
+.speccontent h4{
+	border-bottom: 1px solid #DFDDD1;
+}
+
+.speccontent p{
+	border-top: 1px solid #fff;
+	color: #4F4D4A;
+}
+
+.stripcontent, ul.nav li:hover a, ul.nav li.current a, .widget_netlabs_calendar_widget .timemachine,
+.widget_netlabs_calendar_widget a.timermore, .pagination a, .foodprice, form#newslettersignup input.newssubmit:hover{
+	background: #37332C;
+	outline: 0;
+}
+
+.entry-skin .Dark{
+	background: url(brown/binnerbg.png);
+}
+
+.jcarousel-prev-horizontal{
+	background: url(brown/prevdot.png) no-repeat 49% center;
+}
+
+.jcarousel-next-horizontal{
+	background: url(brown/nextdot.png) no-repeat 51% center;
+}
+
+.lightblock1{
+	background: #AFAC97;
+}
+
+.tagcontent p.thislink:hover{
+	background: url(brown/bigdoth.png);
+}
+
+.galleries_widget p, .widget_netlabs_calendaru_widget p, span.shortgaltitle, .calpic{
+	background: url(brown/blackbox.png) repeat-y center left;
+}
+
+
+
+form#searchform{
+	background: #AFAC97;
+}
+
+
+form#searchform input[type="submit"]{
+	background: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+	letter-spacing: -1px;
+	display: inline-block;
+	padding: 11px 11px 13px 10px;
+	border: 0px solid #fff;
+	margin-left: -3px;
+	cursor: pointer;
+}
+
+#respond .comment-form-comment label {
+	top: 50px;
+}
+
+#respond input[type="text"],
+#respond textarea, form#newslettersignup input[type="text"], form#searchform input[type="text"], .widget-container select{
+	background: #fff;
+	border: 4px solid #AFAC97;
+	-webkit-box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	-moz-box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	box-shadow: inset 0 1px 3px rgba(204,204,204,0.95);
+	padding: 10px;
+}
+
+
+.pagination span, .timeshow .timerclose:hover{
+	background: #AFAC97;
+}
+
+.widget-container select, form#searchform input[type="text"]{
+	text-indent: 0px;
+}
+
+body{
+	background: #F7F6F1 url(brown/bg-tile.png);
+}
+
+#footer form#newslettersignup input.newssubmit, #footer .imlk p, .timeshow a.timermore, .timeshow .timerdesc, #respond input#submit:hover{
+	background: #37332C;
+}
+
+
+#access a{
+	color: #F1F0E8;
+}
+
+.singletweet_widget span a, #site-generator a, .tagcontent h2, .tagcontent p, #site-generator a, .maincontentinner .widget_netlabs_fpnews_widget p a:hover,
+.maincontentinner .singletweet_widget p a:hover, .singletweet_widget span a:hover, .widget-container a:hover{
+	color: #37332C;
+	text-decoration: none;
+}
+
+.skinholder{
+	background: url(brown/winnerbg.png);
+}
+
+
+.maincontentinner .widget_netlabs_imglink_widget p a, .maincontentinner .widget_netlabs_video_widget p, .widget_netlabs_calendaru_widget p a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.feedbimg{
+	background: url(brown/feedb.png) no-repeat 80px 0;
+	margin-top: -20px;
+	padding-top: 10px;
+}
+
+.maincontentinner .widget_netlabs_feedb_widget p, .singletweet_widget p, .singleholder, .specinner, .widget-container thead,
+.jcarousel-clip-horizontal, .infoside, .timerclose:hover, .foodmenu, #respond, .commentlist > li.comment, .post .entry-meta, .bheader, .bempty,
+p.bookingp, .gallerycontainerwrap, .carouselsinner, .menuintro p{
+	background: #E9E8DF;
+}
+
+.bdavailable, .btavailable, .bmavailable, .bundavailable{
+	background: #DFDDD1;
+	text-align: center;
+	text-shadow: 1px 1px 0 #fff;
+}
+
+.bdavailable{
+	background: #F7F6F1;
+	border: 1px solid #CFCAB5;
+}
+
+.bundavailable{
+color: #8F8D7D;
+background: url(brown/xcross.png) no-repeat center;
+}
+
+p.bookingp textarea, .socialcontent{
+	background: #DFDDD1;
+	border: 0px solid #000;
+}
+
+.bdaychooser, .btimechooser, .bminchooser{
+	background: #DFDDD1;
+	padding: 1px;
+}
+
+.today{
+	background: #AFAC97;
+}
+
+.infoside, .timeshow .timerclose, a.comment-reply-link, .commentlist .children > li.bypostauthor{
+	background: #F7F6F2;
+}
+
+.timeshow .timemachine{
+background: url(brown/smalltimemachine.png) no-repeat center;	
+}
+
+.lasthead, .mainwelcome, .monthselect span, blockquote, #comments-title em, .widget-container p, .vmeta, .widget_netlabs_fpnews_widget h4{
+	color: #6F6C68;
+}
+
+
+#footer form#newslettersignup input, a.ddir:hover{
+background: #6F6D61;
+}

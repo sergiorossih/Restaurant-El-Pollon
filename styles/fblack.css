@@ -1,0 +1,38 @@
+body										{background: #F5f5f5 url(black/bg-tile.png);color: #fff; text-shadow: 1px 1px 0 #000;}
+.fbmenu ul									{background: #1f1f1f;}	
+.widget_netlabs_calendar_widget .timemachine,
+.timermore									{background: #1f1f1f;}																			
+.widget_netlabs_imglink_widget p, .timerdesc, 
+.galleries_widget .lightblock1, 
+.widget_netlabs_calendaru_widget .imgblock p {background: url(black/blackbox.png) repeat-y left;color: #FFFFFF;font-size: 12px;font-weight: bold;outline: none;
+    										text-decoration: none; text-align: center; text-transform: uppercase; margin-top: -6px; width: 215px;
+    										text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);padding: 15px 5px 10px 0px;position: absolute;left: 0px; bottom: 2px;margin: 0px;}
+.timerdesc{
+	width: 225px;
+}
+
+.widget_netlabs_calendaru_widget .imgblock p a{color: #fff; text-decoration: none;}
+.widget_netlabs_feedb_widget p, 
+.singletweet_widget p						{background: #393939;text-shadow: 1px 1px 0 #000;}
+.fppostli img, .galleries_widget .imgblock, .widget_netlabs_calendaru_widget .imgblock, .widget_netlabs_imglink_widget .imgblock {
+	 background: none repeat scroll 0 0 #3F3F3F;
+    border: 1px solid #4F4F4F;
+}
+
+#slideinner .jcarousel-item .tagline p {
+	color: #1f1f1f;
+	text-shadow: none;
+}
+
+#slideinner .jcarousel-item .tagline h3 {
+	color: #1f1f1f;
+	text-shadow: none;
+}
+
+#slideinner .jcarousel-item .Dark p {
+	color: #fff;
+}
+
+#slideinner .jcarousel-item .Dark h3 {
+	color: #fff;
+}
