@@ -1,0 +1,441 @@
+.formouter{
+	border: 1px solid #9FAAB0;
+	width: 800px;
+	overflow: hidden;
+	background: #EDEFF0;
+	margin-top: 20px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.formtop {
+    background: #CFD6D9 url(images/topper.png) repeat-x top;
+    height: 52px;
+    width: 100%;
+	border-bottom: 1px solid #9FAAB0;
+}
+
+.formbot{
+	 background: #CFD6D9;
+    height: 52px;
+    width: 100%;
+	border-top: 1px solid #fff;
+}
+
+.fadetop{
+	width: 100%;
+	background: url(images/fadetop.png) repeat-x top;
+}
+
+.fadebottom{
+	width: 100%;
+	background: url(images/fadebottom.png) repeat-x bottom;
+}
+
+form.netsform {
+    background: url("images/formbg.png") repeat-y left center;
+    padding-bottom: 0px;
+    position: relative;
+	width: 100%;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #9FAAB0;
+}
+
+.tabholder {
+    margin-top: 90px;
+    float: left;
+    width: 178px;
+}
+
+
+a.datebutton, a.goback{
+	background: url("images/buttonbg.png") repeat-x center;
+	padding: 3px 0 4px 0;
+	display: block;
+	text-align: center;
+	width: 30%;
+	margin-right: 12px;
+	float: left;
+	border: 1px solid #E2E2E2;
+	border-bottom: 1px solid #B8B8B8;
+	color: #232323;
+	text-decoration: none;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	margin-bottom: 10px;
+}
+
+
+.bookingmanbox{
+	background: #f7f7f7;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-right: 30px;
+}
+
+.bookstatus{
+	float: right;
+}
+
+.green{
+	background: url(images/button_green.png) repeat-x top;
+	border: 1px solid #ADC671;
+    color: #5D7731 !important;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	padding: 5px 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	cursor: pointer;
+	line-height: 17px;
+}
+
+.loader{
+	width: 30px; height: 30px;
+	display: block;
+	background: url(images/loadimg.gif) no-repeat center;
+	float: right;
+	margin-right: 30px;
+	display: none;
+}
+
+.orange{
+	background: url(images/button_orange.png) repeat-x top;
+	border: 1px solid #DAB347;
+    color: #835503 !important;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.6);
+	padding: 5px 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	cursor: pointer;
+	line-height: 17px;
+}
+
+.red{
+	background: url(images/button_red.png) repeat-x top;
+	border: 1px solid #DF6F8B;
+    color: #913944 !important;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+	padding: 5px 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	cursor: pointer;
+	line-height: 17px;
+}
+
+.green:hover{
+	background: url(images/button_green.png) repeat-x bottom;
+}
+
+.orange:hover{
+	background: url(images/button_orange.png) repeat-x bottom;
+}
+
+.red:hover{
+	background: url(images/button_red.png) repeat-x bottom;
+}
+
+p.bookinfoline{
+	margin: 10px 0;
+	border-top: 1px solid #cfcfcf;
+	border-bottom: 1px solid #fff;
+}
+
+span.infoline1{
+	display: block;
+	width: 33.3%;
+	border-top: 1px solid #fff;
+	padding: 5px 0;
+	float: left;
+	color: #666;
+}
+
+.infolinemid{
+	text-align: center;
+}
+.infolinelast{
+	text-align: right;
+}
+
+.bookaction{
+	background: #fff;
+	font-size: 14px;
+	padding: 5px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	 border: 1px solid #D3D3D3;
+    color: #555555 !important;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+	background: url(images/button_white.png) repeat-x top;
+	float: right;
+	position: relative;
+	margin-left: 20px;
+	cursor: pointer;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.calendarholder{
+	margin-right: 100px;
+}
+
+.nets_poststuff .form-table{
+	width: 566px;
+}
+
+.bleft{
+	float: left;
+	margin-left: 0px;
+	text-decoration: none;
+}
+
+.bookaction:hover{
+	background: url(images/button_white.png) repeat-x bottom;
+}
+
+.infolinedesc{
+	width: 100% !important;
+	float: none !important;
+	font-family: Consolas,Monaco,monospace;
+	color: #777 !important;
+	border-bottom: 1px solid #cfcfcf !important;
+	border-top: 0px solid #fff !important;
+}
+
+.bookdatebox{
+	background: #fff;
+	font-size: 14px;
+	padding: 5px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	 border: 1px solid #D3D3D3;
+    color: #555555 !important;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+	background: url(images/button_white.png) repeat-x top;
+	float: left;
+	position: relative;
+}
+
+.guestno{
+	border: 1px solid #8DC5DA;
+    color: #42788E !important;
+	font-weight: bold;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	background: url(images/button_blue.png) repeat-x top;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
+	position: absolute;
+	top: -16px;
+	left: 25px;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	display: block
+}
+
+.spacer{
+	margin-left: 20px !important;
+}
+
+.bookinghour{
+	float: left;
+	display: block;
+	width: 50px;
+	margin-left: 10px;
+	padding-top: 10px;
+}
+
+.daybox{
+	font-weight: bold;
+	font-size: 29px;
+	float: left; 
+	width: 30px;
+	padding-top: 5px;
+	letter-spacing: -1px;
+}
+
+.monthbox{
+	float: left;
+	font-size: 11px;
+	line-height: 12px;
+	text-transform: uppercase;
+	width: 30px;
+	text-align: center;
+}
+
+.timebox{
+	display: block;
+	padding: 5px 0;
+	border-top: 1px solid #555;
+}
+
+.yearbox{
+	font-size: 11px;
+}
+
+a.goback{
+	float: right;
+	margin-right: 30px !important;
+}
+
+
+p.bookingmanheader{
+	text-transform: uppercase;
+	text-shadow: 1px 1px 0 #fff;
+	margin-top: 20px !important;
+}
+
+a.datebutton:hover, a.goback:hover{
+	background: url("images/buttonbghov.png") repeat-x center;
+}
+
+.tabholder ul{
+	border-top: 1px solid #CFD6D9;
+	border-bottom: 1px solid #fff;
+}
+
+.tabholder li {
+	border-bottom: 1px solid #CFD6D9;
+	border-top: 1px solid #fff;
+    margin: 0;
+    padding: 10px 0 10px 15px;
+	color: #888;
+	cursor: pointer;
+	font-weight: bold;
+	color: #2379A1;
+}
+
+.tabholder li.current{
+	color: #444 !important;
+	font-weight: bold;
+}
+
+.nets_poststuff{
+	float: left;
+	width: 596px;
+	margin-left: 20px;
+}
+
+.nets_poststuff .postbox{
+	width: 566px;
+	border: 0px solid #000 !important;
+	background: transparent;
+}
+
+.nets_poststuff .handlediv{
+	display: none;
+}
+
+.nets_poststuff h3.hndle{
+	text-align: center;
+	padding: 18px !important;
+	background:  url(images/headerbg.png) repeat-x top;
+	color: #fff;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	text-shadow: 1px 1px 0 #fff;
+	font-size: 18px !important;
+	font-weight: bold !important;
+	text-transform: uppercase;
+	border: 1px solid #D1D1D1;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	color: #232323;
+	margin-top: 30px !important;
+}
+
+.nets_poststuff .inside{
+	border: 0px solid #fff;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+p.submitter{
+	text-align: right;
+	margin-top: -50px;
+	margin-bottom: 15px;
+	margin-right: 30px;
+}
+
+.nets_poststuff textarea{
+	width: 510px;
+}
+
+span.postover{
+	display: block;
+	margin: 10px 0px 30px 0px;
+	padding: 0px 0px 10px 30px;
+	border-top: 1px solid #C0C0C0;
+	border-left: 1px solid #C0C0C0;
+	border-bottom: 1px solid #fff;
+	border-right: 1px solid #fff;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	position: relative;
+}
+
+span.postover select{
+	padding: 10px !important;
+	height: 40px !important;
+	width: 510px;
+}
+
+.postover label{
+	display: block;
+	text-align: center;
+	margin-bottom: 20px;
+	background: url(images/titlebg.png) repeat-x top;
+	margin-top: 10px;
+	margin-right: 30px;
+	border: 1px solid #D1D1D1;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.postover label span{
+	padding: 8px 30px;
+	color: #2786B3;
+	text-shadow: 1px 1px 0 #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+}
+
+.postover input{
+	padding: 10px;
+	width: 480px !important;
+}
+
+.postover input[type="checkbox"]{
+	width: auto !important;
+	margin-left: 30px;
+}
+
+.postover span.description{
+	text-align: center;
+	text-shadow: 1px 1px 0 #fff;
+	display: block;
+	padding-top: 5px;
+	margin-right: 30px;
+}
+
+.form-table td{
+	padding: 0px;
+}

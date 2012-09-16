@@ -1,0 +1,57 @@
+.maincontentinner .singletweet_widget p a, .widget_netlabs_fpnews_widget p a, .monthselect a, .excptmeta a,
+.singletweet_widget span a, .comment-meta a, a.comment-reply-link, .fn a, .post .entry-meta a, .logged-in-as a,
+.comment-body a, .searchresult a, .widget-container a, .vmeta a, #access li.current-menu-item a, .hentry a{color: #688FB7; text-decoration: none; font-weight: bold;}
+
+.tcontentkeeper a{
+	border-bottom: 1px dotted #688FB7; color: #688FB7; text-decoration: none; font-weight: bold;
+}
+
+.calbg, .ctime{
+	background: url(blue/smalldot.png) no-repeat center;
+}
+
+.currentslide, .dcurrent{
+	background: #688FB7 !important;
+	text-shadow: none !important;
+}
+
+.jcarousel-prev-horizontal:hover{
+	background: url(blue/prevdot.png) no-repeat 49% center;
+}
+
+.jcarousel-next-horizontal:hover{
+	background: url(blue/nextdot.png) no-repeat 51% center;
+}
+
+.tagcontent p.thislink, .widget_netlabs_calendar_widget .announce{
+	background: url(blue/bigdot.png);
+}
+
+.lasthead span, h1.cartitle, .mainwelcome span, .csideinner h3, .infoside h3, .menu-footer ul li a:hover, 
+.widget_netlabs_calendar_widget a.timermore:hover, #access ul ul a:hover{
+	color: #688FB7;
+}
+
+.timeshow h4{
+	background: #DFDDD1;
+}
+
+#access li:hover > a,
+#access a:focus, .timeshow a.timermore:hover, .currentslide, 
+.dateslip, .pagination a:hover, #respond input#submit, form#newslettersignup input.newssubmit:hover, .calsingleentry a.more-link:hover, 
+p.bookingsubmit input:hover, a.more-link:hover{
+	background: #688FB7;
+	color: #373737;
+	text-shadow: none;
+}
+
+.dcurrent, .tcurrent, .mcurrent {
+	background: #688FB7;
+	color: #fff;
+	text-shadow: none;
+}
+
+.timeshow a.timermore{
+	color: #fff;
+}
+

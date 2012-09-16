@@ -1,0 +1,33 @@
+.fbmenu ul li:hover, .widget_netlabs_calendaru_widget .dateslip{
+	background: #E99D01;
+}
+
+.announce, .tagline p.thislink{
+	background: url(gold/fdot.png) no-repeat center;
+}
+
+.tagline p.thislink	a{
+	color: #fff;
+}
+
+.fbmenu ul li:hover a{
+	color: #373737;
+	text-shadow: none;
+}
+
+.tagline p.thislink	a{
+	color: #fff;
+}
+
+.fppostli a, .timermore:hover{
+	color: #E99D01;
+	text-decoration: none;
+	float: right;
+}
+
+.singletweet_widget p a, .singletweet_widget .fbm a, a{
+	color: #E99D01;
+	text-decoration: none;
+}
+
+

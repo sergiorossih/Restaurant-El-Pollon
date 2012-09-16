@@ -1,0 +1,829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: feast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 13:28+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alwyn Kotze <aloecorp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23
+msgid "Page not found."
+msgstr ""
+
+#: 404.php:43
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:26
+#: comments.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:27
+#: comments.php:40
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: contact.php:54
+msgid "Make a Booking."
+msgstr ""
+
+#: contact.php:64
+msgid "Name."
+msgstr ""
+
+#: contact.php:68
+msgid "Email."
+msgstr ""
+
+#: contact.php:72
+msgid "Telephone."
+msgstr ""
+
+#: contact.php:76
+msgid "Guests."
+msgstr ""
+
+#: contact.php:78
+msgid "Select number"
+msgstr ""
+
+#: contact.php:92
+msgid "Time."
+msgstr ""
+
+#: contact.php:99
+msgid "Select time"
+msgstr ""
+
+#: contact.php:111
+msgid "Special Requests"
+msgstr ""
+
+#: contact.php:116
+msgid "Location."
+msgstr ""
+
+#: contact.php:120
+msgid "Make booking.."
+msgstr ""
+
+#: footer.php:23
+msgid "http://www.netstudio.co.za/"
+msgstr ""
+
+#: footer.php:25
+#, php-format
+msgid "Proudly Designed by %s."
+msgstr ""
+
+#: footer.php:45
+msgid "Telephone"
+msgstr ""
+
+#: footer.php:51
+msgid "Fax"
+msgstr ""
+
+#: footer.php:57
+msgid "Mobile"
+msgstr ""
+
+#: footer.php:67
+msgid "Email"
+msgstr ""
+
+#: footer.php:77
+msgid "Address"
+msgstr ""
+
+#: footer.php:87
+msgid "Postal Address"
+msgstr ""
+
+#: footer.php:94
+msgid "Driving Directions"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:69
+msgid "Secondary Navigation"
+msgstr ""
+
+#: functions.php:92
+msgid "<span>Read more</span>"
+msgstr ""
+
+#: functions.php:149
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: functions.php:152
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:159
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:159
+#: functions.php:173
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:173
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:189
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:191
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:199
+msgid "Index page left"
+msgstr ""
+
+#: functions.php:201
+msgid "Index page left side"
+msgstr ""
+
+#: functions.php:209
+#: functions.php:211
+msgid "Index page center"
+msgstr ""
+
+#: functions.php:219
+#: functions.php:221
+msgid "Index page right"
+msgstr ""
+
+#: functions.php:229
+msgid "Calendar sidebar"
+msgstr ""
+
+#: functions.php:231
+msgid "Calendar Sidebar"
+msgstr ""
+
+#: functions.php:240
+#: functions.php:242
+msgid "Facebook page left"
+msgstr ""
+
+#: functions.php:250
+#: functions.php:252
+msgid "Facebook page right"
+msgstr ""
+
+#: functions.php:283
+#, php-format
+msgid "Posted in %4$s by "
+msgstr ""
+
+#: functions.php:312
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:314
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:316
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: header.php:80
+msgid "Get directions"
+msgstr ""
+
+#: loop.php:14
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:16
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: mempage.php:51
+#: single-members.php:48
+msgid "Key team members"
+msgstr ""
+
+#: search.php:22
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: single-menus.php:56
+msgid "Download our menu"
+msgstr ""
+
+#: includes/custom_functions.php:167
+msgid "Search results for"
+msgstr ""
+
+#: includes/custom_functions.php:383
+#: includes/custom_functions.php:457
+msgid "Please fill all the fields"
+msgstr ""
+
+#: includes/custom_functions.php:391
+#: includes/custom_functions.php:467
+msgid "Invalid email supplied"
+msgstr ""
+
+#: includes/custom_functions.php:394
+msgid "No name supplied"
+msgstr ""
+
+#: includes/custom_functions.php:397
+msgid "Please leave the location field open. It is only there to fight spam"
+msgstr ""
+
+#: includes/custom_functions.php:400
+msgid "Thank you for submitting. Your first newsletter will arrive shortly."
+msgstr ""
+
+#: includes/custom_functions.php:562
+msgid "&laquo;"
+msgstr ""
+
+#: includes/custom_functions.php:563
+msgid "&raquo;"
+msgstr ""
+
+#: includes/widgets.php:57
+#: includes/widgets.php:141
+#: includes/widgets.php:217
+#: includes/widgets.php:470
+#: includes/widgets.php:538
+#: includes/widgets.php:761
+#: includes/widgets.php:844
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:58
+msgid "Youtube code:"
+msgstr ""
+
+#: includes/widgets.php:60
+msgid "Vimeo code:"
+msgstr ""
+
+#: includes/widgets.php:142
+#: includes/widgets.php:218
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets.php:143
+msgid "Offset number:"
+msgstr ""
+
+#: includes/widgets.php:196
+msgid "READ MORE.."
+msgstr ""
+
+#: includes/widgets.php:282
+msgid "Select Imagelink:"
+msgstr ""
+
+#: includes/widgets.php:300
+msgid "Show post title"
+msgstr ""
+
+#: includes/widgets.php:353
+msgid "Select Feedback post:"
+msgstr ""
+
+#: includes/widgets.php:509
+msgid "Name:"
+msgstr ""
+
+#: includes/widgets.php:513
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets.php:516
+msgid "Location:"
+msgstr ""
+
+#: includes/widgets.php:539
+msgid "Newsletter message:"
+msgstr ""
+
+#: includes/widgets.php:565
+msgid "year"
+msgstr ""
+
+#: includes/widgets.php:566
+msgid "years"
+msgstr ""
+
+#: includes/widgets.php:567
+msgid "month"
+msgstr ""
+
+#: includes/widgets.php:568
+msgid "months"
+msgstr ""
+
+#: includes/widgets.php:569
+msgid "week"
+msgstr ""
+
+#: includes/widgets.php:570
+msgid "weeks"
+msgstr ""
+
+#: includes/widgets.php:571
+msgid "day"
+msgstr ""
+
+#: includes/widgets.php:572
+msgid "days"
+msgstr ""
+
+#: includes/widgets.php:573
+msgid "hour"
+msgstr ""
+
+#: includes/widgets.php:574
+msgid "hours"
+msgstr ""
+
+#: includes/widgets.php:575
+msgid "minute"
+msgstr ""
+
+#: includes/widgets.php:576
+msgid "minutes"
+msgstr ""
+
+#: includes/widgets.php:628
+msgid "Display a single tweet."
+msgstr ""
+
+#: includes/widgets.php:629
+msgid "Single Tweet Widget"
+msgstr ""
+
+#: includes/widgets.php:649
+#: includes/widgets.php:727
+msgid "ago"
+msgstr ""
+
+#: includes/widgets.php:650
+#: includes/widgets.php:728
+msgid "retweet"
+msgstr ""
+
+#: includes/widgets.php:651
+#: includes/widgets.php:729
+msgid "reply"
+msgstr ""
+
+#: includes/widgets.php:652
+#: includes/widgets.php:730
+msgid "favorite"
+msgstr ""
+
+#: includes/widgets.php:653
+#: includes/widgets.php:734
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/widgets.php:695
+msgid "Display a multiple tweets."
+msgstr ""
+
+#: includes/widgets.php:696
+msgid "Multiple Tweet Widget"
+msgstr ""
+
+#: includes/widgets.php:765
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: includes/widgets.php:787
+msgid "Display latest Galleries."
+msgstr ""
+
+#: includes/widgets.php:788
+msgid "Galleries Widget"
+msgstr ""
+
+#: includes/widgets.php:848
+msgid "Images to show:"
+msgstr ""
+
+#: includes/widgets.php:853
+msgid "Select Gallery:"
+msgstr ""
+
+#: options/custom-post-types.php:94
+#: options/custom-post-types.php:170
+msgid "Add New "
+msgstr ""
+
+#: options/custom-post-types.php:95
+#: options/custom-post-types.php:168
+msgid "Edit "
+msgstr ""
+
+#: options/custom-post-types.php:96
+#: options/custom-post-types.php:171
+msgid "New "
+msgstr ""
+
+#: options/custom-post-types.php:97
+msgid "View "
+msgstr ""
+
+#: options/custom-post-types.php:98
+#: options/custom-post-types.php:164
+msgid "Search "
+msgstr ""
+
+#: options/custom-post-types.php:99
+#: options/custom-post-types.php:100
+msgid "No "
+msgstr ""
+
+#: options/custom-post-types.php:134
+#, php-format
+msgid " updated. <a href=\"%s\">View "
+msgstr ""
+
+#: options/custom-post-types.php:135
+msgid "Custom field updated."
+msgstr ""
+
+#: options/custom-post-types.php:136
+msgid "Custom field deleted."
+msgstr ""
+
+#: options/custom-post-types.php:137
+msgid " updated."
+msgstr ""
+
+#: options/custom-post-types.php:138
+#, php-format
+msgid " restored to revision from %s"
+msgstr ""
+
+#: options/custom-post-types.php:139
+#, php-format
+msgid " published. <a href=\"%s\">View "
+msgstr ""
+
+#: options/custom-post-types.php:140
+msgid " saved."
+msgstr ""
+
+#: options/custom-post-types.php:141
+#, php-format
+msgid " submitted. <a target=\"_blank\" href=\"%s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:142
+#, php-format
+msgid " scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:143
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: options/custom-post-types.php:144
+#, php-format
+msgid " draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:165
+msgid "All "
+msgstr ""
+
+#: options/custom-post-types.php:166
+#: options/custom-post-types.php:167
+msgid "Parent "
+msgstr ""
+
+#: options/custom-post-types.php:169
+msgid "Update"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:11
+msgid "PREV"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:22
+msgid "NEXT"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:311
+#: options/meta-box-extended-functions.php:528
+msgid "Time: "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:317
+msgid "More info"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:324
+msgid "No entries found "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:359
+msgid "more info"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:362
+msgid "Next show in"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:364
+msgid "DAYS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:364
+msgid "HOURS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:364
+msgid "MINS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:364
+msgid "SECS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:382
+msgid "no entries found"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:493
+msgid "Start Date: "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:494
+msgid "End Date: "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:496
+msgid "Date: "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:502
+#: options/meta-box-extended-functions.php:505
+#: options/meta-box-extended-functions.php:511
+#: options/meta-box-extended-functions.php:514
+#: options/meta-box-extended-functions.php:520
+#: options/meta-box-extended-functions.php:523
+msgid "Every"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:503
+#: options/meta-box-extended-functions.php:512
+#: options/meta-box-extended-functions.php:521
+msgid "until"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:511
+#: options/meta-box-extended-functions.php:514
+#: options/meta-box-extended-functions.php:520
+#: options/meta-box-extended-functions.php:523
+msgid "of the month"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:560
+msgid "Need directions?"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:561
+msgid "Click here"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:573
+msgid "Table reserved for:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:578
+msgid "Date of booking:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:583
+msgid "Number of guests:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:588
+msgid "Contact email:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:593
+msgid "Contact telephone number"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:598
+msgid "Special Instructions"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:713
+msgid "Copyright (C) 2011"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:713
+msgid "All rights reserved"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:983
+#: options/meta-box-extended-functions.php:985
+msgid "S"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:983
+msgid "M"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:984
+msgid "T"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:984
+msgid "W"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:985
+msgid "F"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1036
+msgid "SELECT A TIME"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1037
+msgid "Hours"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1108
+msgid "Upcomming Bookings"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1113
+msgid "No upcomming Bookings"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1118
+msgid "Quick links"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1120
+msgid "Yesterday"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1121
+msgid "Today"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1122
+msgid "Tommorrow"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1123
+msgid "Last Week"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1124
+msgid "This Week"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1125
+msgid "Next Week"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1126
+msgid "Last Month"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1127
+msgid "This Month"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1128
+msgid "Next Month"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1132
+msgid "Previous Bookings"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1137
+msgid "No previous bookings"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1250
+msgid "Back"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1274
+msgid "No entries"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1441
+#: options/meta-box-extended-functions.php:1488
+msgid "More"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:1441
+#: options/meta-box-extended-functions.php:1488
+msgid "Info"
+msgstr ""
+
+#: options/meta-box-functions.php:108
+#: options/meta-box-functions.php:374
+msgid "Delete this image"
+msgstr ""
+
+#: options/meta-box-functions.php:108
+#: options/meta-box-functions.php:331
+#: options/meta-box-functions.php:374
+msgid "Delete"
+msgstr ""
+
+#: options/meta-box-functions.php:327
+msgid "Uploaded files"
+msgstr ""
+
+#: options/meta-box-functions.php:337
+msgid "Upload new files"
+msgstr ""
+
+#: options/meta-box-functions.php:340
+msgid "Add more file"
+msgstr ""
+
+#: options/meta-box-functions.php:381
+msgid "Add more images"
+msgstr ""
+
+#: options/meta-box-functions.php:388
+msgid "Select a color"
+msgstr ""
+

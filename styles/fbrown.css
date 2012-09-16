@@ -1,0 +1,17 @@
+body										{background: #F5F4EB url(brown/bg-tile.png);}
+.fbmenu ul									{background: #37332C;-webkit-box-shadow: 3px 3px 0px 0px #DFDDD1;
+											-moz-box-shadow: 3px 3px 0px 0px #DFDDD1;box-shadow: 3px 3px 0px 0px #DFDDD1; }	
+.widget_netlabs_calendar_widget .timemachine,
+.timermore									{background: #37332C;}																			
+.widget_netlabs_imglink_widget p, .timerdesc, 
+.galleries_widget .lightblock1, 
+.widget_netlabs_calendaru_widget .imgblock p {background: url(brown/blackbox.png) repeat-y left;color: #FFFFFF;font-size: 12px;font-weight: bold;outline: none;
+    										text-decoration: none; text-align: center; text-transform: uppercase; margin-top: -6px; width: 215px;
+    										text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);padding: 15px 5px 10px 0px;position: absolute;left: 0px; bottom: 2px;margin: 0px;}
+.timerdesc{
+	width: 225px;
+}
+
+.widget_netlabs_calendaru_widget .imgblock p a{color: #fff; text-decoration: none;}
+.widget_netlabs_feedb_widget p, 
+.singletweet_widget p						{background: #E9E8DF;}
